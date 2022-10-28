@@ -1,0 +1,15 @@
+.bg_col{
+    background-color: rgb(122, 136, 94);
+    width: 500px;
+}
+.mx_auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex_col{
+    flex-direction: column;
+}
